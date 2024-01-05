@@ -20,6 +20,11 @@
         "repo": "QuanX",
         "branch": "master"
     },
+      {
+        "user": "HoRry18",
+        "repo": "loon",
+        "branch": "master"
+    },
     {
         "user": "VirgilClyne",
         "repo": "iRingo",
@@ -44,6 +49,7 @@
         "branch": "main",
         "paths": ["modules"]
     },
+    
     {
         "user": "BiliUniverse",
         "repo": "Enhanced",
